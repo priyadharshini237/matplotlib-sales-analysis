@@ -146,26 +146,6 @@ The project automatically saves visualization images, including:
 * Sales patterns reveal seasonal trends over time.
 * Some orders generate losses despite high sales values.
 
-## Key Visualizations
-
-### Yearly Sales Trend
-![Yearly Sales Trend](images/yearly_sales.png)
-
-### Discount vs Profit Analysis
-![Discount vs Profit](images/Discoun_vs_Profit.png)
-
-### Top 10 Products by Sales
-![Top Products](images/top_10_products.png)
-
-### Monthly Profit Trend
-![Monthly Profit](images/Monthly_profit.png)
-
-### Category-wise Sales by Region
-![Category Region](images/Category_wise_Sales_by_Region.png)
-
-### Correlation Heatmap
-![Heatmap](images/correlation_heatmap.png)
-
 ---
 
 ## ▶️ How to Run the Project
